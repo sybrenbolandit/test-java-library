@@ -1,3 +1,3 @@
-@Library('jenkins-ci') _
+@Library('jenkins-ci@blog/maven-on-jenkins') _
 
 javaLibraryPipeline()
